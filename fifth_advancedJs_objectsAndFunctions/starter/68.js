@@ -1,4 +1,4 @@
-// 68. Clousres
+// 68. Closures
 
 function retirement(retirementAge){
     var a = ' years left until retirement';
